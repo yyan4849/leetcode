@@ -7,3 +7,4 @@
 - [Day06 704 二分查找](https://leetcode-cn.com/problems/binary-search/solution/er-fen-cha-zhao-by-yyan4849-usoj/)
 - [Day07 206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/solution/by-yyan4849-uhdj/)
 - [Day08 380 O(1)时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
+- [Day09 146 cache缓存](https://leetcode-cn.com/problems/lru-cache/solution/lru-by-yyan4849-dl4i/)
